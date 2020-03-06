@@ -1,3 +1,5 @@
+For a complete description of this repository please refer to writeup_nlp.pdf
+
 The most standard breakdown for training and test purposes of the Penn
 Treebank Corpus is:
 
